@@ -6,8 +6,8 @@ import { SiGithub } from 'react-icons/si'
 
 const Navbar = () => {
   return (
-    <nav className='fixed top-0 backdrop-blur-md w-full flex-center py-5 border-b border-white/10 z-50 '>
-      <div className='flex items-center gap-x-6 text-md '>
+    <nav className='fixed top-0 backdrop-blur-md w-full flex items-center justify-start md:justify-center py-5 border-b border-white/10 z-50 px-7'>
+      <div className='flex items-center gap-x-6 text-md w-fit'>
 
         <Link href="#home" className='cursor-pointer'>Home</Link>
         <Link href="#about" className='cursor-pointer'>About</Link>
