@@ -140,8 +140,9 @@ export const Projects = () => {
                             </div>
                             <div className="flex justify-between items-center">
                                 <a
-                                    href="#"
+                                    href="https://github.com/vishalamin200/Learning_Management_System"
                                     className="text-blue-400 hover:text-blue-300 transition-colors my-4"
+                                    target="_blank"
                                 >
                                     View Project →
                                 </a>
@@ -192,8 +193,9 @@ export const Projects = () => {
                             </div>
                             <div className="flex justify-between items-center">
                                 <a
-                                    href="#"
+                                    href="https://github.com/vishalamin200/Hate-Speech-Detector"
                                     className="text-blue-400 hover:text-blue-300 transition-colors my-4"
+                                    target="_blank"
                                 >
                                     View Project →
                                 </a>
